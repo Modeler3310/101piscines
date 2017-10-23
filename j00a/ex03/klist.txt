@@ -1,0 +1,5 @@
+Credentials cache: API:30908
+        Principal: guibayle@LE-101.FR
+
+		  Issued                Expires               Principal
+		  Oct  2 12:48:37 2017  Oct  9 12:48:24 2017  krbtgt/LE-101.FR@LE-101.FR
